@@ -59,8 +59,6 @@ class Checkout {
 			result += quantity * productCost;
 		}
 		
-		console.log(JSON.stringify(this.cart));
-		
 		return result;
 	}
 }
