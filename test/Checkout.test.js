@@ -55,7 +55,7 @@ describe('No custom rules apply', () => {
 	});
 });
 
-describe('A custom 2 for 1 rule is applied on classic items for SecondBite', () => {
+describe('A bundle rule is applied on classic items for SecondBite', () => {
 	const pricingRules = {
 		products: [
 			{
@@ -169,7 +169,7 @@ describe('A custom 2 for 1 rule is applied on classic items for SecondBite', () 
 	});
 });
 
-describe('A custom cost-per-item rule is applied on classic items for SecondBite', () => {
+describe('A discount rule is applied on classic items for SecondBite', () => {
 	const pricingRules = {
 		products: [
 			{
