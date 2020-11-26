@@ -1,0 +1,17 @@
+{
+  "name": "seek-code-challenge",
+  "version": "1.0.0",
+  "description": "Seek Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sonny Lau",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {}
+}
